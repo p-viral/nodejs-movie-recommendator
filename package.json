@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-movie-recommendator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-viral/nodejs-movie-recommendator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-viral/nodejs-movie-recommendator/issues"
+  },
+  "homepage": "https://github.com/p-viral/nodejs-movie-recommendator#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.2",
+    "moment": "^2.24.0",
+    "supertest": "^4.0.2"
+  }
+}
